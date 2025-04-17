@@ -1,0 +1,87 @@
+[
+    {
+      "name": "Starter Plan",
+      "price": "$19.99/month",
+      "id": 101,
+      "description": "Perfect for beginners starting their fitness journey.",
+      "features": [
+        "Access to gym facilities during regular hours",
+        "Free Wi-Fi access",
+        "Discount on additional personal training sessions",
+        "Access to locker rooms"
+      ]
+    },
+    {
+      "name": "Cardio Boost",
+      "price": "$24.99/month",
+      "id": 102,
+      "description": "Great for cardio lovers looking to burn calories.",
+      "features": [
+        "Unlimited use of cardio equipment",
+        "Access to gym facilities during regular hours",
+        "Free Wi-Fi access",
+        "Discount on additional personal training sessions"
+      ]
+    },
+    {
+      "name": "Trainer Touch",
+      "price": "$34.99/month",
+      "id": 103,
+      "description": "Includes guided training to get you on track.",
+      "features": [
+        "1 Free personal training session (first month)",
+        "Unlimited use of cardio equipment",
+        "Access to basic fitness classes",
+        "Access to locker rooms"
+      ]
+    },
+    {
+      "name": "Group Fit",
+      "price": "$27.99/month",
+      "id": 104,
+      "description": "Join others in our motivating fitness classes.",
+      "features": [
+        "Access to basic fitness classes",
+        "Free Wi-Fi access",
+        "Access to gym facilities during regular hours",
+        "Discount on additional personal training sessions"
+      ]
+    },
+    {
+      "name": "Wi-Fi Plus",
+      "price": "$21.99/month",
+      "id": 105,
+      "description": "Workout and stay connected with free internet.",
+      "features": [
+        "Free Wi-Fi access",
+        "Discount on additional personal training sessions",
+        "Access to gym facilities during regular hours",
+        "Access to locker rooms"
+      ]
+    },
+    {
+      "name": "Pro Trainer",
+      "price": "$39.99/month",
+      "id": 106,
+      "description": "Affordable personal training add-ons.",
+      "features": [
+        "Discount on additional personal training sessions",
+        "1 Free personal training session (first month)",
+        "Unlimited use of cardio equipment",
+        "Access to locker rooms"
+      ]
+    },
+    {
+      "name": "Comfort Access",
+      "price": "$23.99/month",
+      "id": 107,
+      "description": "Stay fresh and comfortable with locker access.",
+      "features": [
+        "Access to locker rooms",
+        "Free Wi-Fi access",
+        "Access to gym facilities during regular hours",
+        "Discount on additional personal training sessions"
+      ]
+    }
+  ]
+  
